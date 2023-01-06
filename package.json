@@ -9,7 +9,7 @@
     "seeder": "node utils/seeder"
   },
   "engines": {
-    "node": ">=16.13.0"
+    "node": ">=18.12.1"
   },
   "dependencies": {
     "axios": "^0.24.0",
