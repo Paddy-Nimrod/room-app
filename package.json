@@ -8,6 +8,9 @@
     "lint": "next lint",
     "seeder": "node utils/seeder"
   },
+  "engines": {
+    "node": ">=16.13.0"
+  },
   "dependencies": {
     "axios": "^0.24.0",
     "bcryptjs": "^2.4.3",
